@@ -8,7 +8,8 @@ As an aspiring data scientist, I am always eager to expand my skillset and explo
 
 # Features
 
-## API Integration: Leveraged API calls to fetch live data and ensure my dashboard is always up-to-date with the latest scores, player stats, and team standings.
+## API Integration: 
+Leveraged API calls to fetch live data and ensure my dashboard is always up-to-date with the latest scores, player stats, and team standings.
 Power Query Editor: Used the Power Query Editor for data cleaning and transformation, ensuring the data is accurate and ready for analysis.   
 
 ## DAX (Data Analysis Expressions):
